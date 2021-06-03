@@ -1,4 +1,4 @@
-module grpc/sample/client
+module github.com/Ryuku-Hisa/hello-grpc/greeter_server
 
 go 1.16
 
