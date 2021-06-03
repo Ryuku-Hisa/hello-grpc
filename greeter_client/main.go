@@ -8,7 +8,7 @@ import (
 	"time"
 
 	"google.golang.org/grpc"
-	pb "grpc/sample/helloworld"
+	pb "github.com/Ryuku-Hisa/hello-grpc/helloworld/proto"
 )
 
 const (
